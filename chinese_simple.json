@@ -1,0 +1,52 @@
+{
+//该翻译补丁经检查没有任何问题。
+	"DialogueDictionary": {
+
+		//extract1.xml
+		"The extractor is a go! The process will be enough to bring us home and then reset the place afterwards! - Solanum": "提取装置启动了！这个过程足以带我回家然后重置这片区域！——所莱内姆",
+		//extract2.xml
+		"Something worth noting for the construction of [REDACTED] - all of the planets orbit on the <![CDATA[<color=orange>Same Axis.</color>]]>": "关于[已编辑]的建造，有一点值得注意——所有行星都在<![CDATA[<color=orange>同一根轴线</color>]]>上运行。",
+		//fish.xml
+		"An anglerfish skeleton? These used to be a real problem until I developed that <![CDATA[<color=orange>Cloaking field.</color>]]>": "安康鱼骨架？在我研发出<![CDATA[<color=orange>隐形力场</color>]]>之前，这些家伙可真是个大麻烦。",
+		//s4log1.xml
+		"This whole place is running like clockwork, we just have to wait here and then we'll be able t[MAX CHARACTER LIMIT REACHED]": "整个设施运转得如同精密的钟表。我们只需在此等候，之后就能[达到字数限制]",
+		//s4log2.xml
+		"Hopefully this recorder is fireproof, as the lava transfer is working! Spirus 4-S should be powered up by now, so it's just a matter of time before I get back home to brittle hollow.": "希望这个记录仪是防火的，毕竟熔岩传输系统已经正常运转！斯派勒斯4-S现在应该已经供能完毕，所以我回到碎空星只是时间问题。"
+
+	},
+	"ShipLogDictionary": {
+
+		"Spirus 1": "斯派勒斯 1",
+		"Surprisingly, this is the only planet that orbits the core. Every other celestial body seems to be LAYERED on top of each other, forming a sort of spiral.": "令人惊讶的是，这是唯一一颗围绕核心运行的行星。其他所有天体似乎都层层叠叠地分布，形成了一种螺旋结构。",
+		"A nomai discovered a way to make a cloaking device.": "一位挪麦人发现了制造隐形装置的方法。",
+
+		"Spirus 2": "斯派勒斯 2",
+		"This planet appears to be in early stages of development, housing a very thin atmosphere.": "这颗行星似乎处于发展的早期阶段，拥有极为稀薄的大气层。",
+
+		"Spirus 3": "斯派勒斯 3",
+		"The most habitable planet in this system, it appears to be the only planet harbouring biological matter": "作为该星系中最宜居的行星，它似乎是唯一一颗存在生物物质的行星。",
+		"The nomai observed that all planets in the system orbit on the same axis.": "挪麦人观测到该星系内所有行星都在同一根轴线上运行。",
+
+		"Spirus 4": "斯派勒斯 4",
+		"This planet is covered in molten rock (ouch)": "这颗行星被熔融岩石所覆盖。（好烫！）",
+		"I found a Nomai log talking about.. waiting and.. clockwork? It cut off before I could figure out what they were on about.": "我发现了一份挪麦日志，里面提到了……等待还有……钟表装置？没等我弄明白她在说什么就中断了。",
+		"Apparently this 'lava transfer' is powering something on Spirus 4 <![CDATA[<color=orange>(I doubt the S was of significance)</color>]]>, maybe that'll get me home?": "显然，这种“熔岩传输”正在为斯派勒斯4上的某个东西供能<![CDATA[<color=orange>（我怀疑这个“S”没什么重要意义）</color>]]>，或许这能让我回家？",
+		"Solanum was here! And it seems like they found their way back to my system (There's hope after all!). Shame they left this place how they found it...": "所莱内姆来过这里！看来她找到了回到我所在星系的路（终究还是有希望的）。可惜她离开时，这里还是原来的样子……",
+
+		"Spirus 4-S": "斯派勒斯 4-S",
+
+		"The Core": "核心",
+		"This appears to be this system's sun. I wonder how I can get back to mine...": "这似乎是这个星系的恒星。真不知道我该怎么回到我自己的星系……"
+
+	},
+	"UIDictionary": {
+
+		"Spirus 1": "斯派勒斯 1",
+		"Spirus 2": "斯派勒斯 2",
+		"Spirus 3": "斯派勒斯 3",
+		"Spirus 4": "斯派勒斯 4",
+		"Spirus 4-S": "斯派勒斯 4-S",
+		"The Core": "核心"
+
+	}
+}
