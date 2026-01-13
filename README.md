@@ -5,6 +5,8 @@ Stuck in a strange new system, can you find your way back to timber hearth?
 A small story mod made in a week.
 (no screenshots because spoilers, sorry!)
 Made for the first outer wilds mod jam with the themes LAYERS and CLOCKWORK
+
+Thank you @SanBaiMing for the Chinese translation!
 ## Prerequisites
 - Outer Wilds Mod Manager (get it from the [Outer Wilds Mods](https://outerwildsmods.com/) website)
 - OWML installed in the Mod Manager
