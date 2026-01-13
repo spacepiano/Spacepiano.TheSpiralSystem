@@ -3,7 +3,7 @@
   "author": "Spacepiano",
   "name": "The Spiral System",
   "uniqueName": "Spacepiano.TheSpiralSystem",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "owmlVersion": "2.7.2",
   "dependencies": [ "xen.NewHorizons" ]
 }
